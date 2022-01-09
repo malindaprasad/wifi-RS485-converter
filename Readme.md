@@ -21,6 +21,9 @@ zip එක කෙලින්ම දෙන්න පුලුවන් Printing 
 ### Schematic 
 ![PCB](/2.png?raw=true "PCB")
 
+### Printed PCB
+![PCB](/PCB.jpeg?raw=true "PCB")
+
 ### Screens using data
 
 ![Screen](/Screen1.PNG?raw=true "Screen")
