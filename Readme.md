@@ -23,7 +23,10 @@ zip එක කෙලින්ම දෙන්න පුලුවන් Printing 
 
 ### Screens using data
 
-![Screen](/Screen1.png?raw=true "Screen")
-![Screen](/Screen2.png?raw=true "Screen")
-![Screen](/Screen3.png?raw=true "Screen")
-![Screen](/Screen4.png?raw=true "Screen")
+![Screen](/Screen1.PNG?raw=true "Screen")
+![Screen](/Screen2.PNG?raw=true "Screen")
+![Screen](/Screen3.PNG?raw=true "Screen")
+![Screen](/Screen4.PNG?raw=true "Screen")
+
+Support by
+@danindudesilva
